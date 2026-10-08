@@ -1,0 +1,10 @@
+python
+reseau
+routeur
+commutateur
+protocole
+fibre
+passerelle
+serveur
+pare-feu
+adresse
