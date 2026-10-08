@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+# fichiers générés à l'exécution
+scores.txt
+etudiants.txt
