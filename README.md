@@ -25,5 +25,5 @@ R308/
 | TP  | Sujet                            | État     |
 |-----|----------------------------------|----------|
 | TP1 | Gestion de données et mini-jeux  | Terminé  |
-| TP2 | -                                | À venir  |
+| TP2 | POO et jeu du Morpion            | Terminé  |
 | TP3 | -                                | À venir  |
